@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\WebAPI1\\WebAPI1\\WebAPI1.csproj": {}
+    "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\WebAPI1blooddonate\\WebAPI1\\WebAPI1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\WebAPI1\\WebAPI1\\WebAPI1.csproj": {
+    "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\WebAPI1blooddonate\\WebAPI1\\WebAPI1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\WebAPI1\\WebAPI1\\WebAPI1.csproj",
+        "projectUniqueName": "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\WebAPI1blooddonate\\WebAPI1\\WebAPI1.csproj",
         "projectName": "WebAPI1",
-        "projectPath": "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\WebAPI1\\WebAPI1\\WebAPI1.csproj",
+        "projectPath": "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\WebAPI1blooddonate\\WebAPI1\\WebAPI1.csproj",
         "packagesPath": "C:\\Users\\EmanuelMartinsCardos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\WebAPI1\\WebAPI1\\obj\\",
+        "outputPath": "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\WebAPI1blooddonate\\WebAPI1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
